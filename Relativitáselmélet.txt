@@ -6,3 +6,7 @@ Egy másik következmény az idődilatáció, mely szerint egy nyugvó rendszerb
 
 {\displaystyle {\frac {\Delta t}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}{\frac  {\Delta t}{{\sqrt  {1-{\frac  {v^{{2}}}{c^{{2}}}}}}}}
 Az idődilatáció és a hosszúság-kontrakció egymásból következő fogalom, a kísérleti bizonyítékok csak a kettő együttes feltevése esetén állják meg a helyüket. A legismertebb bizonyíték a kozmikus müonok bomlása. E szerint a természetben nyugalmi rendszerben 2·10−6 másodperc bomlásidejű müonok, amelyek a sztratoszférában keletkeznek, megfigyelhetőek a földfelszínen, mivel azok koordináta-rendszerében „lassabban telik az idő”, illetve „rövidebb távolságot kell megtenni”, így képes a mintegy 30 km-es útján végigmenni, és leérkezni a Föld felszínére.
+
+
+
+szeretlek<3
